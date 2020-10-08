@@ -1,0 +1,16 @@
+Throughput:
+580134/6853 = 84,654020 bytes/s
+84,654020 x 8 = 677,232161 bit/s
+
+packet loss: 0
+
+delay: 6.764.494
+rata-rata delay:0.004473872
+
+jitter:6.672.618
+rata-rata jitter:0.004413107
+
+
+
+
+
